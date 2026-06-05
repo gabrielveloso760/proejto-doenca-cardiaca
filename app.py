@@ -56,8 +56,8 @@ st.write("Este app utiliza Inteligência Artificial para analisar o risco ou pre
 @st.cache_resource
 def carregar_artefatos():
     try:
-        modelo = joblib.load("modelo_doenca_cardiaca.joblib")
-        escala = joblib.load("scaler_modelo_doenca_cardiaca.joblib")
+        modelo = joblib.load("models/modelo_doenca_cardiaca.joblib")
+        escala = joblib.load("models/scaler_modelo_doenca_cardiaca.joblib")
         return modelo, escala
     except Exception as e:
         st.error(f"Erro ao carregar os arquivos do modelo: {e}")
