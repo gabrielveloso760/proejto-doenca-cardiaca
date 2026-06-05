@@ -8,7 +8,7 @@ Curso: Análise e Desenvolvimento de Sistemas (ADS-5B)
 [Gustavo Lima Dos Santos] - RA: [1992035]
 
 ## Links do Projeto
-Aplicativo online: [O link será inserido após o deploy]
+Aplicativo online: [https://proejto-doenca-cardiaca-qt9upcjz9hx2vw8gm2kuom.streamlit.app/]
 Dataset original: https://www.kaggle.com/datasets/redwankarimsony/heart_disease_uci
 Vídeo Aluno 1: [Link do Drive]
 Vídeo Aluno 2: [Link do Drive]
