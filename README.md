@@ -131,6 +131,6 @@ O volume de dados utilizados para o treinamento, é relativamente pequeno. Para 
 O proejto atingiu as métricas esperadas ao aplicar o que foi ensinado em sala de aula e estudado por fora. Solucionado o problema de vazamento de dados que teve na primeira entrega deste projeto e as incoerências do Notebook e Relatório. 
 TeVe um Recall de 90.20% utilizando o algoritmo SVC, o App em todo mostra que estatiscamente eficiente e seguro para atuar como um apoio na identificação de possiveis doenças cardíacas, tentando minimizar ao maximo as triagens feitas em ambientes clinicos.
 ## Autores
-Gabriel Veloso Barbosa
-Gabriela Dos Santos Lima
-Gustavo Lima Dos Santos
+Gabriel Veloso Barbosa/
+Gabriela Dos Santos Lima/
+Gustavo Lima Dos Santos/
