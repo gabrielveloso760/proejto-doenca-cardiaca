@@ -10,9 +10,6 @@ Curso: Análise e Desenvolvimento de Sistemas (ADS-5B)
 ## Links do Projeto
 Aplicativo online: [https://proejto-doenca-cardiaca-qt9upcjz9hx2vw8gm2kuom.streamlit.app/]
 Dataset original: https://www.kaggle.com/datasets/redwankarimsony/heart_disease_uci
-Vídeo Aluno 1: [Link do Drive]
-Vídeo Aluno 2: [Link do Drive]
-Vídeo Aluno 3: [Link do Drive]
 
 ## 1. Descrição do Problema 
 O projeto desenvolve um sistema de triagem para analisar o risco de doenças cardíacas usando o dataset heart_disease_uci.csv.
